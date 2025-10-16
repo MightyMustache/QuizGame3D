@@ -26,7 +26,7 @@ The project demonstrates:
 * InputSystem
 * Cinemachine
 
-💾 Download Android build from release folder
+💾 Download APK Android build from release tab
 
 🎥 Gameplay video ⬇️ 
 
